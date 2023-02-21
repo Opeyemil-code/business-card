@@ -4,7 +4,7 @@ export default function Content(){
     return(
         <section className="bg-black text-white flex flex-col lg:w-1/2 mx-auto lg:p-6 w-80">
             <div className="mx-auto">
-                <h1 className="font-bold text-4xl font-poppins mt-5">Laura Smith</h1>
+                <h1 className="font-bold text-4xl font-poppins mt-5 lg:mt-0">Laura Smith</h1>
                 <p className="text-yellow-500 text-xl font-bolder ml-3 font-poppins">Frontend developer</p>
                 <p className="text-white text-sm ml-8 font-bold">laurasmith.website</p>
             </div>

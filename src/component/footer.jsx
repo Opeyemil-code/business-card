@@ -8,16 +8,16 @@ export default function Footer(){
     return(
     <footer className="flex mx-auto flex-row bg-black lg:w-1/2  mx-auto pb-6 w-80">
             <div className="flex flex-row mx-auto space-x-12 mt-12 bg-black ">
-                <a href="http://">
+                <a href="">
                 <img className='' src={facebook} alt="" />
                 </a>
-                <a href="http://">
+                <a href="https://twitter.com/Opeyemil1">
                 <img className="" src={twitter} alt="" />
                 </a>
                 <a href="http://">
                 <img className="" src={instagram} alt="" />
                 </a>
-                <a href="http://">
+                <a href="https://github.com/Opeyemil-code?tab=repositories">
                 <img className="" src={github} alt="" />
                 </a>
             </div>
